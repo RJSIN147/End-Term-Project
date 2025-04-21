@@ -1,0 +1,18 @@
+.book-card {
+  border: 1px solid #ccc;
+  padding: 12px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  max-width: 250px;
+}
+.book-card img {
+  height: 180px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto 10px;
+}
+.book-card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
