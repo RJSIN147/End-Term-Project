@@ -1,12 +1,37 @@
-# React + Vite
+# 📚 BookVerse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BookVerse is a modern React-based book exploration app that lets users browse, search, and favorite books using the Google Books API. Users can also leave reviews for individual books.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Live Site](https://your-deployment-link.netlify.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧰 Tech Stack
+
+- **React.js** (with Hooks)
+- **React Router DOM**
+- **React Context API** (for state management)
+- **Google Books API**
+- **Plain CSS**
+- **Vite**
+- **GitHub + Netlify** for deployment
+
+---
+
+## 🧩 Features
+
+- 🔎 **Search Books** from Google Books API  
+- 💖 **Add to Favorites** using global state (Context API)  
+- 📄 **Book Details Page** with full info and thumbnail  
+- ✍️ **Review Form** with validation  
+- 📱 **Responsive Layout** for desktop and mobile  
+- 🧭 **Client-side Routing** for Home, Books, Details & Favorites  
+
+---
+
+## 📁 Folder Structure
+
