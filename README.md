@@ -6,7 +6,7 @@ BookVerse is a modern React-based book exploration app that lets users browse, s
 
 ## 🚀 Live Demo
 
-👉 [Live Site](https://your-deployment-link.netlify.app)
+👉 [Live Site](https://end-term-project-ten.vercel.app/)
 
 ---
 
@@ -30,8 +30,4 @@ BookVerse is a modern React-based book exploration app that lets users browse, s
 - ✍️ **Review Form** with validation  
 - 📱 **Responsive Layout** for desktop and mobile  
 - 🧭 **Client-side Routing** for Home, Books, Details & Favorites  
-
----
-
-## 📁 Folder Structure
 
