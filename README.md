@@ -16,9 +16,7 @@ BookVerse is a modern React-based book exploration app that lets users browse, s
 - **React Router DOM**
 - **React Context API** (for state management)
 - **Google Books API**
-- **Plain CSS**
-- **Vite**
-- **GitHub + Netlify** for deployment
+- **Vite** for deployment
 
 ---
 
