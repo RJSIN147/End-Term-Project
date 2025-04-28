@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "prebuild": "dotenv -e .env"
   },
   "dependencies": {
     "dotenv": "^16.5.0",
@@ -17,6 +18,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
+    "@remix-run/dev": "^2.16.5",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
     "@vitejs/plugin-react": "^4.3.4",
