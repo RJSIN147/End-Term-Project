@@ -8,8 +8,11 @@ export default defineConfig({
   plugins: [react()],
   base: process.env.VITE_BASE_PATH || "/End-Term-Project",
   define: {
-    "process.env.BOOKS_API_KEY": JSON.stringify(
-      process.env.BOOKS_API_KEY
+    "process.env.VITE_GOOGLE_BOOKS_API": JSON.stringify(
+      process.env.VITE_GOOGLE_BOOKS_API
+    ),
+    "process.env.VITE_GOOGLE_BOOKS_API_KEY": JSON.stringify(
+      process.env.VITE_GOOGLE_BOOKS_API_KEY
     ),
   },
 });
